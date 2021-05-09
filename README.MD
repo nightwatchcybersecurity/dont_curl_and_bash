@@ -15,11 +15,11 @@ python install.py
 # The purpose of this repo
 The goal of this repo is to provide a list of projects that use this pattern along with information
 on how to use them securely. The following resources are provided:
-- [CURL_AND_BASH.md](CURL_AND_BASH.md) - list of projects using the "curl | bash" pattern
+- [CURL_AND_BASH.MD](CURL_AND_BASH.MD) - list of projects using the "curl | bash" pattern
   and how to verify their downloads
-- [CURL_OTHER.md](CURL_OTHER.md) - list of projects using "curl" to download binaries for execution but without
+- [CURL_OTHER.MD](CURL_OTHER.MD) - list of projects using "curl" to download binaries for execution but without
   piping to shell, and how to verify their downloads
-- [METHODS.md](METHODS.md) - general instructions about how to verify digital signatures of downloads and mitigation
+- [METHODS.MD](METHODS.MD) - general instructions about how to verify digital signatures of downloads and mitigation
 options when signatures are not available
 
 ## Why is CURL | BASH a problem?

@@ -2,6 +2,14 @@
 This page provides information regarding how to verify signed downloads, and mitigation options when signatures
 are not possible/available. None of these are perfect.
 
+We also have some related tools:
+- [icetrust](https://github.com/nightwatchcybersecurity/icetrust) - a tool
+  that can be used to verify downloads via checksums or PGP. There are also two
+  example dashboards that show this tool in action by actively monitoring 
+  several well known projects using curl/bash patterns:
+    * [icetrust_dashboard](https://icetrust_dashboard.nightwatchcybersecurity.com/)
+    * [icetrust_uptime](https://icetrust_uptime.nightwatchcybersecurity.com/)
+
 # Verification methods for signed downloads
 ## Code signing
 Some operating systems (Windows, MacOS, etc) offer ability to digitally sign a given script or package with
