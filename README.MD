@@ -11,7 +11,18 @@ Or downloaded and executed like this:
 curl https://www.example.com/install.py
 python install.py
 ```
-## Why is that a problem?
+
+# The purpose of this repo
+The goal of this repo is to provide a list of projects that use this pattern along with information
+on how to use them securely. The following resources are provided:
+- [CURL_AND_BASH.md](CURL_AND_BASH.md) - list of projects using the "curl | bash" pattern
+  and how to verify their downloads
+- [CURL_OTHER.md](CURL_OTHER.md) - list of projects using "curl" to download binaries for execution but without
+  piping to shell, and how to verify their downloads
+- [METHODS.md](METHODS.md) - general instructions about how to verify digital signatures of downloads and mitigation
+options when signatures are not available
+
+## Why is CURL | BASH a problem?
 There is no way to tell if the file being downloaded and executed has not been modified by a hacker.
 This can lead to ***"supply chain attacks"***. Or, in the words
 of [Mr. Weasley](https://harrypotter.fandom.com/wiki/Arthur_Weasley): ***"Never trust anything
@@ -50,16 +61,6 @@ someone else.
 - Be aware of what you are doing before installing something off the Internet onto your desktop/laptop/server/phone and
   review the code you are about to run
 
-# The purpose of this repo
-The goal of this repo is to provide a list of projects that use this pattern along with information
-on how to use them securely. The following resources are provided:
-- [CURL_AND_BASH.md](CURL_AND_BASH.md) - list of projects using the "curl | bash" pattern
-  and how to verify their downloads
-- [CURL_OTHER.md](CURL_OTHER.md) - list of projects using "curl" to download binaries for execution but without
-  piping to shell, and how to verify their downloads
-- [METHODS.md](METHODS.md) - general instructions about how to verify digital signatures of downloads and mitigation
-options when signatures are not available
-
 # Related projects
 Some of our projects related to this issue:
 - [icetrust](https://github.com/nightwatchcybersecurity/icetrust) - a tool
@@ -68,14 +69,9 @@ Some of our projects related to this issue:
   several well known projects using curl/bash patterns:
     * [icetrust_dashboard](https://icetrust_dashboard.nightwatchcybersecurity.com/)
     * [icetrust_uptime](https://icetrust_uptime.nightwatchcybersecurity.com/)
-- 
 - [release_auditor](https://github.com/nightwatchcybersecurity/release_auditor) -
   tool for detection of modified Github releases
   (see [our blog post here](https://wwws.nightwatchcybersecurity.com/2021/04/25/supply-chain-attacks-via-github-com-releases/))
-
-# License
-Information in this repo is licensed under the [CC-BY 4.0 license](LICENSE) - more
-information [available here](https://creativecommons.org/licenses/by/4.0/).
 
 # Feedback and changes
 Please use the GitHub issue tracker to provide feedback and suggestions:
@@ -83,5 +79,5 @@ https://github.com/nightwatchcybersecurity/dont_curl_and_bash
 
 You can also send emai to ***research /at/ nightwatchcybersecurity [dot] com***
 
-***NOTE:*** Before suggesting adding a project to the lists in this repo, please inform them of these security
+***NOTE:*** Before suggesting adding a project to the lists in this repo, please inform them of these
 issues so they can have an opportunity to address it.
