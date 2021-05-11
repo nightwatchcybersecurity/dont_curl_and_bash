@@ -14,7 +14,7 @@ Definition of the fields appearing below:
 
 | Name | Description | Download URL | Other ways to install | Mitigations | Known issue? |
 |------|-------------|-----------------------|--------------|--------------|---
-| [gcloud cli](https://cloud.google.com/sdk/gcloud) | Cloud management tool | https://cloud.google.com/sdk/docs/install#linux | [Package managers](https://cloud.google.com/sdk/docs/install) | Checksums published on the install page or use package managers  | 1167780 |
+| [gcloud cli](https://cloud.google.com/sdk/gcloud) (binaries) | Cloud management tool | https://cloud.google.com/sdk/docs/install#linux | [Package managers](https://cloud.google.com/sdk/docs/install) | Checksums published on the install page or use package managers  | 1167780 |
 
 # Projects using cryptographic verification
 Definition of the fields appearing below:
@@ -26,7 +26,7 @@ Definition of the fields appearing below:
 
 | Name | Description | Downloads | Other ways to install | Verification Methods |
 |------|-------------|-----------------------|--------------|--------------|
-| [aws cli](https://docs.aws.amazon.com/cli/index.html) | Cloud management tool | https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html |  | [PGP signature](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html#v2-install-linux-validate) |
+| [aws cli](https://docs.aws.amazon.com/cli/index.html) | Cloud management tool | https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html |  | [PGP signature](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html#v2-install-linux-validate) |
 | [CMake](https://cmake.org/) | Build system for C/C++ | https://cmake.org/download/ | [Docs](https://cmake.org/install/) | [PGP-signed checksum](https://cmake.org/install/#download-verification) |
 | [Maven](https://maven.apache.org/) | Build system for Java | https://maven.apache.org/download.cgi | APT / RPM | [PGP signature](https://infra.apache.org/release-signing#verifying-signature) |
 
