@@ -22,7 +22,7 @@ Definition of the fields appearing below:
 | [homebrew](https://brew.sh/) | Package manager for MacOS | [link](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh) | [Docs](https://docs.brew.sh/Installation) | Uses direct Github download | [Yes](https://wwws.nightwatchcybersecurity.com/2021/04/30/security-of-homebrew-bootstrap-process/)  |
 | [pip](https://pip.pypa.io/en/stable/) | Package manager for Python | https://bootstrap.pypa.io/get-pip.py | [OS packages](https://pip.pypa.io/en/stable/installing/) | Use package managers | [Yes](https://github.com/pypa/get-pip/issues/41) |
 | [Rust](https://www.rust-lang.org/) & [Cargo](https://doc.rust-lang.org/cargo/) | Rust language and Cargo package manager | https://sh.rustup.rs | [Docs](https://forge.rust-lang.org/infra/other-installation-methods.html) | Use package managers or standalone installers  | [Yes](https://github.com/rust-lang/rustup/issues/2029) |
-| [sdkman](https://sdkman.io/install) | Environment management tool | https://get.sdkman.io/ | | Download from GitHub |  |
+| [sdkman](https://sdkman.io/install) | Environment management tool | https://get.sdkman.io/ | | |  |
 
 # Projects using cryptographic verification
 Definition of the fields appearing below:
