@@ -26,6 +26,7 @@ Definition of the fields appearing below:
 | [platform.sh](https://docs.platform.sh/development/cli.html#installation) | Cloud management tool | https://platform.sh/cli/installer |  | Use direct GitHub download |  |
 | [poetry](https://python-poetry.org/docs/#installation) | Package manager for Python | [link](https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py) |  | Uses direct Github download |   |
 | [Rust](https://www.rust-lang.org/) & [Cargo](https://doc.rust-lang.org/cargo/) | Rust language and Cargo package manager | https://sh.rustup.rs | [Docs](https://forge.rust-lang.org/infra/other-installation-methods.html) | Use package managers or standalone installers  | [Yes](https://github.com/rust-lang/rustup/issues/2029) |
+| [scoop](https://scoop.sh/) | Windows installer tool | https://get.scoop.sh/ | | Direct GitHub download | |
 | [sdkman](https://sdkman.io/install) | Environment management tool | https://get.sdkman.io/ | | |  |
 
 # Projects using cryptographic verification
