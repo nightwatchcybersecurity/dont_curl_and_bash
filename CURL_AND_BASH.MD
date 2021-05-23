@@ -45,6 +45,7 @@ Definition of the fields appearing below:
 | [nix](https://nixos.org/manual/nix/stable/) | Package manager for Linux/MacOS/Windows | https://nixos.org/nix/install | [Source](https://nixos.org/manual/nix/stable/#ch-installing-source) | [PGP signature](https://nixos.org/download.html#nix-verify-installation) |
 | [pnpm](https://pnpm.io/) | Package manager for NodeJS | https://get.pnpm.io/v6.js | [Docs](https://pnpm.io/installation) | [PGP-signed checksum](https://github.com/pnpm/get#verifying-files) |
 | [RVM](https://rvm.io/) | Tool for managing Ruby environments | https://get.rvm.io | [Docs](https://rvm.io/rvm/install) | [PGP signature](https://rvm.io/rvm/security) |
+| [salt bootstrap](https://github.com/saltstack/salt-bootstrap) | Configuration management tool | https://bootstrap.saltproject.io | Package managers | Checksums |
 
 # Feedback and changes
 Please use the GitHub issue tracker to provide feedback and suggestions:
