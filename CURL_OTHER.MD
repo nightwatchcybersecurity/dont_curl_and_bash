@@ -30,6 +30,7 @@ Definition of the fields appearing below:
 | [CMake](https://cmake.org/) | Build system for C/C++ | https://cmake.org/download/ | [Docs](https://cmake.org/install/) | [PGP-signed checksum](https://cmake.org/install/#download-verification) |
 | [digital ocean cli](https://docs.digitalocean.com/reference/doctl/) | Cloud management tool | https://docs.digitalocean.com/reference/doctl/how-to/install/ | Package managers | Checksums on GitHub |  |
 | [Maven](https://maven.apache.org/) | Build system for Java | https://maven.apache.org/download.cgi | APT / RPM | [PGP signature](https://infra.apache.org/release-signing#verifying-signature) |
+| [WP CLI](https://make.wordpress.org/cli/handbook/guides/installing/) | Wordpress CLI | https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar |  | Checksums and PGP |
 
 # Feedback and changes
 Please use the GitHub issue tracker to provide feedback and suggestions:
