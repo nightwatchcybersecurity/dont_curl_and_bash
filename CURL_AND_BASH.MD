@@ -17,6 +17,7 @@ Definition of the fields appearing below:
 | [azure cli](https://docs.microsoft.com/en-us/cli/azure/) | Cloud management tool | https://aka.ms/InstallAzureCli | Use package managers |  |
 | [chef](https://docs.chef.io/chef_install_script/) | Configuration management tool | https://omnitruck.chef.io/install.sh |  |  |
 | [codecov](https://about.codecov.io/) | Code coverage tool | https://codecov.io/bash | [Checksums](https://docs.codecov.io/docs/about-the-codecov-bash-uploader#validating-the-bash-script) | [Yes](https://about.codecov.io/blog/validating-the-bash-script-on-ci/)  |
+| [dell system update](https://linux.dell.com/repo/hardware/dsu/) | Firmware update tool | https://linux.dell.com/repo/hardware/dsu/bootstrap.cgi |  |  |
 | [dotnetcore install script](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-install-script) | Language runtime | https://dot.net/v1/dotnet-install.sh | Package managers |  |
 | [firebase cli](https://firebase.tools/) | Cloud management tool | https://firebase.tools/ |  Github releases | 189149887 |
 | [fusionauth installer](https://fusionauth.io/docs/v1/tech/installation-guide/fast-path/) | Authentication and authorization tool | [link](https://raw.githubusercontent.com/FusionAuth/fusionauth-install/master/install.sh) | Package managers, uses direct GitHub download| [Yes](https://github.com/FusionAuth/fusionauth-issues/issues/1159) |
