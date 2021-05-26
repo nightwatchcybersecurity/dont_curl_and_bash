@@ -14,7 +14,8 @@ Definition of the fields appearing below:
 
 | Name | Description | Mitigations | Known issue? |
 |------|-------------|-------------|--------------|
-| [dropbox daemon](https://www.dropbox.com/install-linux) (binaries) | Cloud storage | Package managers |  |
+| [alibaba cloud cli](https://github.com/aliyun/aliyun-cli)| Cloud management tool | Package managers  |  |
+| [dropbox daemon](https://www.dropbox.com/install-linux) | Cloud storage | Package managers |  |
 | [gcloud cli](https://cloud.google.com/sdk/gcloud) (binaries) | Cloud management tool | Checksums published on the install page or use package managers  | 1167780 |
 
 # Projects using cryptographic verification
