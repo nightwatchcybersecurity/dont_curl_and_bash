@@ -35,6 +35,7 @@ Definition of the fields appearing below:
 | [Rust](https://www.rust-lang.org/) & [Cargo](https://doc.rust-lang.org/cargo/) | Rust language and Cargo package manager | https://sh.rustup.rs | Use package managers or standalone installers  | [Yes](https://github.com/rust-lang/rustup/issues/2029) |
 | [scoop](https://scoop.sh/) | Windows installer tool | https://get.scoop.sh/ | Direct GitHub download | |
 | [sdkman](https://sdkman.io/install) | Environment management tool | https://get.sdkman.io/ | | | 
+| [veracode sca agent (sourceclear)](https://help.veracode.com/r/c_sc_ci_script) | Security scanner | https://download.sourceclear.com/ci.sh | | | 
 
 # Projects using cryptographic verification
 Definition of the fields appearing below:
