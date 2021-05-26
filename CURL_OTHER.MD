@@ -12,9 +12,10 @@ Definition of the fields appearing below:
    * ***Mitigations*** - documentation on [possible mitigations](METHODS.MD)
    * ***Known issue*** - link to a public bug report regarding improving verification of downloads
 
-| Name | Description | Download URL | Other ways to install | Mitigations | Known issue? |
-|------|-------------|-----------------------|--------------|--------------|---
-| [gcloud cli](https://cloud.google.com/sdk/gcloud) (binaries) | Cloud management tool | https://cloud.google.com/sdk/docs/install#linux | Package managers | Checksums published on the install page or use package managers  | 1167780 |
+| Name | Description | Mitigations | Known issue? |
+|------|-------------|-------------|--------------|
+| [dropbox daemon](https://www.dropbox.com/install-linux) (binaries) | Cloud storage | Package managers |  |
+| [gcloud cli](https://cloud.google.com/sdk/gcloud) (binaries) | Cloud management tool | Checksums published on the install page or use package managers  | 1167780 |
 
 # Projects using cryptographic verification
 Definition of the fields appearing below:
