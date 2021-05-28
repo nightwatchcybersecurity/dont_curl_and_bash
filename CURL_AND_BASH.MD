@@ -52,6 +52,7 @@ Definition of the fields appearing below:
 | [pnpm](https://pnpm.io/) | Package manager for NodeJS | https://get.pnpm.io/v6.js | [Docs](https://pnpm.io/installation) | [PGP-signed checksum](https://github.com/pnpm/get#verifying-files) |
 | [RVM](https://rvm.io/) | Tool for managing Ruby environments | https://get.rvm.io | [Docs](https://rvm.io/rvm/install) | [PGP signature](https://rvm.io/rvm/security) |
 | [salt bootstrap](https://github.com/saltstack/salt-bootstrap) | Configuration management tool | https://bootstrap.saltproject.io | Package managers | Checksums |
+| [volta](https://docs.volta.sh/guide/getting-started) | NodeJS Tool manager | https://get.volta.sh | | Checksums |
 
 # Feedback and changes
 Please use the GitHub issue tracker to provide feedback and suggestions:
