@@ -24,7 +24,8 @@ Definition of the fields appearing below:
 | [gcloud cli](https://cloud.google.com/sdk/docs/downloads-interactive) (script) | Cloud management tool | https://sdk.cloud.google.com | Use package managers or PGP-signed binaries |  |
 | [heroku cli](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) | Cloud management tool | https://cli-assets.heroku.com/install.sh | Use package managers |  |
 | [homebrew](https://brew.sh/) | Package manager for MacOS | [link](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh) | Uses direct Github download | [Yes](https://wwws.nightwatchcybersecurity.com/2021/04/30/security-of-homebrew-bootstrap-process/)  |
-| [ibm cloud cli](hhttps://cloud.ibm.com/docs/cli?topic=cli-getting-started) | Cloud management tool | https://ibm.biz/idt-installer  | Use direct GitHub download |  |
+| [ibm cloud cli](https://cloud.ibm.com/docs/cli?topic=cli-getting-started) | Cloud management tool | https://ibm.biz/idt-installer  | Use direct GitHub download |  |
+| [jfrog cli installer](https://jfrog.com/getcli/) | Developer tools | https://getcli.jfrog.io/  | |  |
 | [magento cloud cli](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html) | Cloud management tool | https://accounts.magento.cloud/cli/installer |  |   |
 | [mattermost repo setup](https://docs.mattermost.com/help/getting-started/light-install.html#installation) | Collaboration platform | https://deb.packages.mattermost.com/repo-setup.sh |  |   |
 | [nextcloud web installer](https://nextcloud.com/install/#instructions-server) | Collaboration platform | https://download.nextcloud.com/server/installer/setup-nextcloud.php | Use PGP-signed binaries |  |
