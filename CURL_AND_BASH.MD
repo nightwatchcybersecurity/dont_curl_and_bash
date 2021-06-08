@@ -8,7 +8,6 @@ Definition of the fields appearing below:
    * ***Name*** - name/link to the project
    * ***Description*** - short description
    * ***Script URL*** - URL(s) of the bootstrap scripts
-   * ***Other ways to install*** - project documentation on installing the tool in a more secure way
    * ***Mitigations*** - documentation on possible [possible mitigations](METHODS.MD)
    * ***Known issue*** - link to a public bug report regarding improving verification of downloads
 
@@ -34,6 +33,7 @@ Definition of the fields appearing below:
 | [platform.sh](https://docs.platform.sh/development/cli.html#installation) | Cloud management tool | https://platform.sh/cli/installer | Use direct GitHub download |  |
 | [poetry](https://python-poetry.org/docs/#installation) | Package manager for Python | [link](https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py) | Uses direct Github download |   |
 | [Rust](https://www.rust-lang.org/) & [Cargo](https://doc.rust-lang.org/cargo/) | Rust language and Cargo package manager | https://sh.rustup.rs | Use package managers or standalone installers  | [Yes](https://github.com/rust-lang/rustup/issues/2029) |
+| [saucectl](https://docs.saucelabs.com/testrunner-toolkit/installation/index.html#installing-saucectl) | Testing tool | https://saucelabs.github.io/saucectl/install | Direct GitHub download | |
 | [scoop](https://scoop.sh/) | Windows installer tool | https://get.scoop.sh/ | Direct GitHub download | |
 | [sdkman](https://sdkman.io/install) | Environment management tool | https://get.sdkman.io/ | | | 
 | [veracode sca agent (sourceclear)](https://help.veracode.com/r/c_sc_ci_script) | Security scanner | https://download.sourceclear.com/ci.sh | | | 
