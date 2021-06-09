@@ -29,6 +29,7 @@ Definition of the fields appearing below:
 | [mattermost repo setup](https://docs.mattermost.com/help/getting-started/light-install.html#installation) | Collaboration platform | https://deb.packages.mattermost.com/repo-setup.sh |  |   |
 | [nextcloud web installer](https://nextcloud.com/install/#instructions-server) | Collaboration platform | https://download.nextcloud.com/server/installer/setup-nextcloud.php | Use PGP-signed binaries |  |
 | [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) | Node.js version manager | [link](https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh) | Uses direct Github download |  |
+| [pi-hole installer](https://docs.pi-hole.net/main/basic-install/) | Privacy tool | https://install.pi-hole.net | Clone repository | [Yes](https://pi-hole.net/2016/07/25/curling-and-piping-to-bash/) |
 | [pip](https://pip.pypa.io/en/stable/) | Package manager for Python | https://bootstrap.pypa.io/get-pip.py | Use package managers | [Yes](https://github.com/pypa/get-pip/issues/41) |
 | [platform.sh](https://docs.platform.sh/development/cli.html#installation) | Cloud management tool | https://platform.sh/cli/installer | Use direct GitHub download |  |
 | [poetry](https://python-poetry.org/docs/#installation) | Package manager for Python | [link](https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py) | Uses direct Github download |   |
