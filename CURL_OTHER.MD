@@ -30,11 +30,12 @@ Definition of the fields appearing below:
 |------|-------------|-----------------------|--------------|--------------|
 | [aws cli](https://docs.aws.amazon.com/cli/index.html) | Cloud management tool | https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html |  | [PGP signature](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html#v2-install-linux-validate) |
 | [bitwarden cli](https://bitwarden.com/help/article/cli/) | Password manager | https://github.com/bitwarden/cli/releases/download/v1.16.0/bw-linux-1.16.0.zip | Package managers | Checksums |
-| [CloudBees Jet CLI](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/pro-jet-cli/installation) | CI/CD tool | |  | Package managers |
+| [CloudBees Jet CLI](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/pro-jet-cli/installation) | CI/CD tool | |  | Checksums |
 | [CMake](https://cmake.org/) | Build system for C/C++ | https://cmake.org/download/ | [Docs](https://cmake.org/install/) | [PGP-signed checksum](https://cmake.org/install/#download-verification) |
 | [codeclimate](https://github.com/codeclimate/codeclimate#anywhere) | Code Quality toop | https://github.com/codeclimate/codeclimate | | Homebrew or docker |
 | [digital ocean cli](https://docs.digitalocean.com/reference/doctl/) | Cloud management tool | https://docs.digitalocean.com/reference/doctl/how-to/install/ | Package managers | Checksums on GitHub |  |
 | [Maven](https://maven.apache.org/) | Build system for Java | https://maven.apache.org/download.cgi | APT / RPM | [PGP signature](https://infra.apache.org/release-signing#verifying-signature) |
+| [SalesForce CLI](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm) | Cloud management tool | |  | Checksums in manifest files|
 | [Wordpress](https://wordpress.org/download/releases/) | Blogging / CMS Platform |  |  | Checksums |
 | [WP CLI](https://make.wordpress.org/cli/handbook/guides/installing/) | Wordpress CLI | https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar |  | Checksums and PGP |
 
