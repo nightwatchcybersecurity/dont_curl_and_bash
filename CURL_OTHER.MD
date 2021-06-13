@@ -28,6 +28,7 @@ Definition of the fields appearing below:
 
 | Name | Description | Downloads | Other ways to install | Verification Methods |
 |------|-------------|-----------------------|--------------|--------------|
+| [archmac](https://www.archmac.org/) | Package manager for MacOS | https://www.archmac.org/ |  | Checksums |
 | [aws cli](https://docs.aws.amazon.com/cli/index.html) | Cloud management tool | https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html |  | [PGP signature](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html#v2-install-linux-validate) |
 | [bitwarden cli](https://bitwarden.com/help/article/cli/) | Password manager | https://github.com/bitwarden/cli/releases/download/v1.16.0/bw-linux-1.16.0.zip | Package managers | Checksums |
 | [CloudBees Jet CLI](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/pro-jet-cli/installation) | CI/CD tool | |  | Checksums |
