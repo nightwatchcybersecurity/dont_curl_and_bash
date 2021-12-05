@@ -33,7 +33,7 @@ Definition of the fields appearing below:
 | [bitwarden cli](https://bitwarden.com/help/article/cli/) | Password manager | https://github.com/bitwarden/cli/releases/download/v1.16.0/bw-linux-1.16.0.zip | Package managers | Checksums |
 | [CloudBees Jet CLI](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/pro-jet-cli/installation) | CI/CD tool | |  | Checksums |
 | [CMake](https://cmake.org/) | Build system for C/C++ | https://cmake.org/download/ | [Docs](https://cmake.org/install/) | [PGP-signed checksum](https://cmake.org/install/#download-verification) |
-| [codeclimate](https://github.com/codeclimate/codeclimate#anywhere) | Code Quality toop | https://github.com/codeclimate/codeclimate | | Homebrew or docker |
+| [codeclimate](https://github.com/codeclimate/codeclimate#anywhere) | Code Quality toop | https://github.com/codeclimate/codeclimate | | PGP and checksums |
 | [digital ocean cli](https://docs.digitalocean.com/reference/doctl/) | Cloud management tool | https://docs.digitalocean.com/reference/doctl/how-to/install/ | Package managers | Checksums on GitHub |  |
 | [Maven](https://maven.apache.org/) | Build system for Java | https://maven.apache.org/download.cgi | APT / RPM | [PGP signature](https://infra.apache.org/release-signing#verifying-signature) |
 | [SalesForce CLI](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm) | Cloud management tool | |  | Checksums in manifest files|
