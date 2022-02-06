@@ -1,3 +1,5 @@
+# *** THIS PROJECT IS NOW ARCHIVED AND IS NO LONGER BEING UPDATED. ICETRUST WILL REMAIN OPERATIONAL. ***
+
 # "Friends Don't Let Friends CURL and BASH"
 The [recent covecov.io breach](https://about.codecov.io/security-update/) exposes a glaring security hole at
 the core of software development. It's the fact that many projects we use everyday are bootstraped
